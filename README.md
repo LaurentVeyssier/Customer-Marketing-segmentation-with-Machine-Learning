@@ -1,5 +1,5 @@
-# Customer-Marketing-segmentation-with-Machine-Learning-
-Use various machine learning tools to segment credit card customers
+# Customer-Marketing-segmentation-with-Machine-Learning
+Use unsupervised machine learning tools to segment credit card customers
 
 In this project, the objective is to segment a portfolio of credit card users according to usage characteristics. Customer segmentation is then used by marketing department to tailor products and services specific to these customer segments. This project is part of UDEMY Datascience for Business program by Dr. Ryan Ahmed using Google Colab.
 
@@ -43,3 +43,5 @@ Looking at the segments' population, clusters "VIP/Prime" and "one-off" are extr
 ![](asset/population.png)
 
 Projection of the population on two principal component axis after dimensionality reduction to a 2D feature space (from 17 features to 2 features). These two dimensions retain 48% of the total variance of the dataset. The axes represents the direction of maximum variance in the data (eigen vectors).
+
+![](asset/pca.png)
